@@ -20,3 +20,4 @@ document.addEventListener('DOMContentLoaded', function () {
 	price && price.addEventListener('keydown', function (e) { if (e.key === 'Enter') btn && btn.click(); });
 });
 
+
